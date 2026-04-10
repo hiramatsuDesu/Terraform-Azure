@@ -11,6 +11,10 @@ This project deploys a basic infrastructure in Azure using **Terraform** as an I
 The architecture includes a Load Balancer, 2 virtual machines, and a centralized monitoring system.  
 
 
+## Demo Video
+[Watch the presentation](https://www.youtube.com/watch?v=4w74aq6S5WI)
+
+
 ## General Architecture
 
 The infrastructure includes:  
