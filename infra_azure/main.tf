@@ -58,7 +58,7 @@ module "virtualmachines" {
 
   subnet_id = module.networking.subnet_id
 
-  ssh_public_key = file("/home/user_pes/.ssh/id_ed25519.pub")
+  ssh_public_key = file("")
 
   user_data = <<-EOF
     #!/bin/bash
