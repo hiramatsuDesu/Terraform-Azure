@@ -1,3 +1,3 @@
 # Azure Infrastructure with Terraform
 
-![Cover](images/cover.png)
+![Cover](images/cover.jpg)
